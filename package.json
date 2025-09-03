@@ -1,0 +1,6 @@
+{
+    "name": "crypto_streaming",
+    "private": true,
+    "workspaces": ["backend", "frontend"]
+  }
+  
